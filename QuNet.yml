@@ -19,6 +19,7 @@ dependencies:
   - qiskit-algorithms=0.3.0
   - qiskit-optimization=0.6.1
   - qiskit-ibmq-provider
+  - qiskit-ibm-runtime
   - jupyterlab
   - ipython
   - ipywidgets
