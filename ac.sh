@@ -2,7 +2,7 @@
 
 # Check if arguments are provided
 if [ -z "$1" ]; then
-  commit_msg="Bilz commit at $(date +'%Y-%m-%d %H:%M:%S')"
+  commit_msg="Bilz has committed at $(date +'%Y-%m-%d %H:%M:%S')"
 else
   commit_msg="$1"
 fi
